@@ -1,0 +1,16 @@
+{
+  "article": {
+    "title": "Sample Article",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+  },
+  "trending": [
+    { "id": 1, "title": "Trend 1", "description": "Description 1" },
+    { "id": 2, "title": "Trend 2", "description": "Description 2" },
+    { "id": 3, "title": "Trend 3", "description": "Description 3" }
+  ],
+  "destinations": [
+    { "id": 1, "name": "Destination 1", "image": "destination1.jpg" },
+    { "id": 2, "name": "Destination 2", "image": "destination2.jpg" },
+    { "id": 3, "name": "Destination 3", "image": "destination3.jpg" }
+  ]
+}

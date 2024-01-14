@@ -1,0 +1,63 @@
+/* App.css */
+body {
+  font-family: "Arial", sans-serif;
+  /* other global styles */
+}
+.destination-card {
+  width: 200px;
+  margin: 0 8px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f0f0f0;
+}
+
+.destination-name {
+  color: #fff;
+}
+.carousel-item {
+  position: relative;
+  height: 400px; /* Adjust the height as needed */
+  overflow: hidden;
+}
+
+.ant-input-affix-wrapper {
+  background-color: #e2e2e2 !important;
+}
+.ant-input {
+  background-color: #e2e2e2 !important;
+}
+
+@media only screen and (width: 768px) {
+  .fontSize15 {
+    font-size: 15px !important;
+  }
+  .textFieldSize150 {
+    width: 150px !important;
+  }
+  .dotSize45 {
+    width: 45px !important;
+  }
+  .btnHeight40 {
+    height: 40px !important;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .d-none {
+    display: none;
+  }
+  .fontSize15 {
+    font-size: 12px !important;
+  }
+  .textFieldSize150 {
+    width: 150px !important;
+  }
+  .dotSize45 {
+    width: 45px !important;
+  }
+  .btnHeight40 {
+    height: 40px !important;
+  }
+}
