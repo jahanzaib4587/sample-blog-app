@@ -1,5 +1,9 @@
 # Blog app
 
+Clone the repository:
+
+   ```bash
+   git clone https://github.com/jahanzaib4587/sample-blog-app.git
 
 ## Installation
 
@@ -32,3 +36,6 @@ Designed for displaying trending articles, this component includes images and us
 The main component of the application, responsible for rendering the overall layout. It orchestrates the display and interaction of the various components to create a cohesive user interface.
 
 Feel free to use this improved version in your project's README.md file. Adjustments can be made based on your project's specific details and preferences.
+
+Deployed Link:
+https://sample-user-listing-app-scvb.vercel.app/
